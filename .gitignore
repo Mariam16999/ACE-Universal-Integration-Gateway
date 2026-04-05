@@ -1,0 +1,7 @@
+/.metadata/
+# IBM ACE / IIB ignore
+# Ignore temporary build files
+bin/
+gen/
+*.bar
+*.orig
